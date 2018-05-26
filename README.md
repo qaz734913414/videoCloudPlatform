@@ -5,6 +5,9 @@
 #### 软件框架
 #
 ![Image text](https://github.com/debugger999/videoCloudPlatform/blob/master/img/arch.jpg)
+#
+#### 自留地
+#
+180526：
 
-
-
+编程极简主义，其实是一种代码洁癖；
