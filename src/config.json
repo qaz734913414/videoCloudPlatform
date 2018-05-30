@@ -1,0 +1,16 @@
+{
+    "cfgType": "json",
+    "apiType": "rest",
+    "apiPort": 10080,
+    "streamOutputPort": 10090;
+    "videoShareMemSize":41943040,
+    "alarmVideoEnable":1,
+    "alarm":{
+        "h264Path":"/home/ubuntu/webdir/video",
+        "mp4Path":"/home/ubuntu/webdir/webpages/video",
+        "recordDays":90,
+        "alarmRecordSeconds":30,
+        "alarmOffsetSeconds":15,
+        "useSnapTimestamp":1
+    }
+}

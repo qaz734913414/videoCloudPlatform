@@ -1,0 +1,22 @@
+{
+	"previewType": "hls",
+  "gb28181":{
+      "platformId":"32020200002000000002",
+      "platformPort":7100,
+      "platformIp":"192.168.0.18",
+      "localId":"34010000002000000001",
+      "localPort":5060,
+      "localIp":"192.168.0.17"
+  },
+	"camera":	[{
+			"cameraId":	1,
+			"running":	1,
+			"cameraType":	"rtsp",
+			"rtspAddr":	"rtsp://192.168.0.64/h264/main/av_stream"
+		}, {
+			"cameraId":	2,
+			"running":	1,
+			"cameraType":	"gb28181",
+			"sipId": "32020200002000000666"
+		}]
+}
